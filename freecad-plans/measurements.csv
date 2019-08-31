@@ -1,0 +1,68 @@
+Base width	300
+Base height	300
+Base thickness	13.5
+Back width	300
+Back height	200
+Back thickness	13.5
+Front width	300
+Front height	50
+Front thickness	13.5
+Front screws offset	10
+Side bottom width	273
+Side bottom height	50
+Side top width	140
+Side top height	200
+Side thickness	13.5
+Lead screw diameter	8
+Lead screw nut diameter (apothem * 2)	13.5
+Guide shaft diameter	8
+Guide shaft coupler diameter	10
+Guide shaft bushing sleeve length	25
+Side X axis guide shaft horizontal offset	190
+Side X axis lower guide shaft height	95
+Side X axis upper guide shaft height	184
+Side X axis lead screw horizontal offset	192.75
+Side X axis lead screw height	109
+Bed width	250
+Bed height	136.5
+Bed thickness	13.5
+Z axis support width	80
+Z axis support height	185
+Z axis support thickness	13.5
+Z axis plate width	80
+Z axis plate height	120
+Z axis plate thickness	13.5
+Z axis plate support screws offset	20
+Z axis plate support screws separation	80
+Z axis bottom width	80
+Z axis bottom height	60
+Z axis bottom chamfered front width	40
+Z axis shaft offset	40
+Z axis shaft support diameter	29
+Z axis bottom thickness	13.5
+Z axis top width	80
+Z axis top height	90
+Z axis top chamfered back width	40
+Z axis top thickness	13.5
+Y axis anti-backslash nut width 	40
+Y axis anti-backslash nut height	60
+Y axis anti-backslash nut thickness	13.5
+Y axis anti-backslash nut opening width	10
+Y axis anti-backslash nut opening height	45
+Motor width	42
+Motor height	42
+Motor length	40
+Motor coupler diameter	22
+Motor screws separation	31
+Motor screws offset	5
+Fastener's hole diameter	2.2
+M3 Bolt's hole diameter	4
+M2 Bolt's hole diameter	3
+
+
+
+
+Working area
+X axis	193
+Y axis	136.5
+Z axis	65
