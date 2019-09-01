@@ -1,3 +1,9 @@
+Desired working volume (in millimeters)
+Working volume X	193
+Working volume Y	136.5
+Working volume Z	50
+
+Generic thickness	13.5
 Base width	300
 Base height	300
 Base thickness	13.5
@@ -5,29 +11,29 @@ Back width	300
 Back height	200
 Back thickness	13.5
 Front width	300
-Front height	50
+Front height	50	TODO
 Front thickness	13.5
 Front screws offset	10
 Side bottom width	273
 Side bottom height	50
-Side top width	140
+Side top width	136.5
 Side top height	200
 Side thickness	13.5
 Lead screw diameter	8
 Lead screw nut diameter (apothem * 2)	13.5
 Guide shaft diameter	8
-Guide shaft coupler diameter	10
+Guide shaft bushing sleeve diameter	10
 Guide shaft bushing sleeve length	25
-Side X axis guide shaft horizontal offset	190
-Side X axis lower guide shaft height	95
-Side X axis upper guide shaft height	184
+Side X axis guide shaft horizontal offset	190	TODO
+Side X axis lower guide shaft height	95	TODO
+Side X axis upper guide shaft height	185	TODO
 Side X axis lead screw horizontal offset	192.75
-Side X axis lead screw height	109
-Bed width	250
+Side X axis lead screw height	109	TODO
+Bed width	253
 Bed height	136.5
 Bed thickness	13.5
-Z axis support width	80
-Z axis support height	185
+Z axis support width	80	TODO
+Z axis support height	183.5
 Z axis support thickness	13.5
 Z axis plate width	80
 Z axis plate height	120
@@ -55,14 +61,10 @@ Motor length	40
 Motor coupler diameter	22
 Motor screws separation	31
 Motor screws offset	5
+Motor shaft length	24
 Fastener's hole diameter	2.2
 M3 Bolt's hole diameter	4
 M2 Bolt's hole diameter	3
-
-
-
-
-Working area
-X axis	193
-Y axis	136.5
-Z axis	65
+X axis lead screw length	262
+Y axis lead screw length	262
+Z axis lead screw length	161.5
