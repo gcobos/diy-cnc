@@ -2,6 +2,10 @@ Desired working volume (in millimeters)
 Working volume X	193
 Working volume Y	136.5
 Working volume Z	50
+Requirements for the spindle
+Spindle drill bit depth	35	Normal depth from the bottom of the Z axis to the tip of the drill bit
+Spindle shaft separation	40	Separation from the Z axis plate to the center of the spindle's shaft
+Spindle shaft support diameter	29	Diameter of the hole needed to support the spindle to the bottom of the Z axis
 
 Generic thickness	13.5
 Base width	300
@@ -11,11 +15,11 @@ Back width	300
 Back height	200
 Back thickness	13.5
 Front width	300
-Front height	50	TODO
+Front height	48.25
 Front thickness	13.5
-Front screws offset	10
+Front screws offset	9.65
 Side bottom width	273
-Side bottom height	50
+Side bottom height	48.25
 Side top width	136.5
 Side top height	200
 Side thickness	13.5
@@ -24,15 +28,15 @@ Lead screw nut diameter (apothem * 2)	13.5
 Guide shaft diameter	8
 Guide shaft bushing sleeve diameter	10
 Guide shaft bushing sleeve length	25
-Side X axis guide shaft horizontal offset	190	TODO
+Side X axis guide shaft horizontal offset	195
 Side X axis lower guide shaft height	95	TODO
 Side X axis upper guide shaft height	185	TODO
-Side X axis lead screw horizontal offset	192.75
-Side X axis lead screw height	111	TODO
+Side X axis lead screw horizontal offset	197.75
+Side X axis lead screw height	111
 Bed width	253
 Bed height	136.5
 Bed thickness	13.5
-Z axis support width	80	TODO
+Z axis support width	80
 Z axis support height	183.5
 Z axis support thickness	13.5
 Z axis plate width	80
@@ -43,8 +47,6 @@ Z axis plate support screws separation	80
 Z axis bottom width	80
 Z axis bottom height	60
 Z axis bottom chamfered front width	40
-Z axis shaft offset	40
-Z axis shaft support diameter	29
 Z axis bottom thickness	13.5
 Z axis top width	80
 Z axis top height	90
