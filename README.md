@@ -1,7 +1,7 @@
-# diy-cnc
-Plans and instructions to make your own CNC
+# DIY CNC
+Plans and instructions to make your own desktop CNC.
 
-Includes FreeCAD pieces, assembly and Gcode job, in case you have access to a CNC that can make 800mm x 800mm
+Includes FreeCAD pieces, assembly and Gcode job, in case you have access to a CNC that can make 800mm x 800mm.
 
 Also includes the model assembled with sources, and the spreadsheet of measurements (included also inside cnc-pieces.FCStd)
 
