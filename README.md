@@ -11,4 +11,4 @@ sense.
 
 ## Assembled design
 
-![alt tag](https://github.com/gcobos/diy-cnc/blob/master/screenshots/cnc-assembled-transparent.png)
+![alt tag](https://github.com/gcobos/diy-cnc/blob/master/screenshots/cnc-assembly-transparent.png)
