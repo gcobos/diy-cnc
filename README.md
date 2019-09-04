@@ -9,4 +9,6 @@ The machine's volume by default is 300x300x300, resulting in a working area of a
 values in the spreadsheet modifies on the fly the machine, although it's important then to re-check every measurement so that it makes
 sense.
 
- 
+## Assembled design
+
+![alt tag](https://github.com/gcobos/diy-cnc/blob/master/screenshots/cnc-assembled-transparent.png)
